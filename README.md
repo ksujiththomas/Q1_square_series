@@ -2,14 +2,10 @@
 #For Q1
 gcc Q1_solution.c -o Q1sol -lm
 ./Q1sol
+
 #For Q2
-
-
-
-
-
-
-
+gcc Q2_solution.c -o Q2sol
+./Q2sol
 
 --------------------------------------------------------------------------
 Embedded Software Engineer Quiz
