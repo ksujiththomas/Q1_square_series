@@ -8,6 +8,11 @@ gcc Q2_solution.c -o Q2sol
 ./Q2sol
 
 --------------------------------------------------------------------------
+Q2.a) The mapping function unroll a value corresponding to a key.
+Q2.b) The outputs for 30001, 55555, and 77788 will be "Not Found".
+Q2.c) The upper limit of this mapping function before there will be collisions depends on the size of the hash table and the distribution of the input keys. A collision occurs when two different keys hash to the same index in the hash table. The size of the hash table should be at least equal to the number of unique keys.
+
+--------------------------------------------------------------------------
 Embedded Software Engineer Quiz
 
 Please submit answers by creating a public repo on Github or Bitbucket and sharing the url of the repo. Please do not submit answers in any other format. 
